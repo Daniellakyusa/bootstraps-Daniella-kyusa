@@ -1,0 +1,58 @@
+body{
+    width:70%;
+    
+    background-color: wheat;
+}
+main{
+    background-color: rgb(245,193,175);
+    
+    border: 2px solid black;
+    padding: 5 px;
+}
+img{
+    width: 300px;height: 300px;
+    border-radius: 5px;
+    border: black 4px;
+}
+
+
+
+p{
+    
+    color: black;
+}
+danstyle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+    color: black;
+}
+
+
+.section{
+    background-color: aquamarine;
+}
+#h1style{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/*nav manu styling*/
+
+
+
+ul>li{
+    list-style: none;
+    display: inline;
+}
+ul>li>a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    margin-left: 4px;
+    padding: 5px;
+}
+ul>li>a:hover{
+    color: aqua;
+    background-color: white;
+    
+}
+
