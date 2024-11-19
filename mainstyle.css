@@ -56,3 +56,17 @@ ul>li>a:hover{
     
 }
 
+
+.view{
+    width: 80%;
+    background-color: green;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14x 16px;
+    text-decoration: none;
+}
+video{
+    background-color: green;
+    padding: 50px;
+}
