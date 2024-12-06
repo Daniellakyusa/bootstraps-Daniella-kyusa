@@ -1,18 +1,19 @@
 body{
     width:70%;
     
-    background-color: wheat;
+    background-color: rgba(212, 207, 197, 0.76);
 }
-main{
-    background-color: rgb(245,193,175);
+
     
    
-    padding: 5 px;
-}
+    
+
 img{
     width: 300px;height: 300px;
     border-radius: 5px;
     border: black 4px;
+    background-color: rgba(212, 207, 197, 0.76);
+    padding: 80px;
 }
 
 
@@ -20,7 +21,9 @@ img{
 p{
     
     color: black;
-}
+    background-color: rgba(212, 207, 197, 0.76);
+} 
+
 danstyle{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: grey;
@@ -29,13 +32,18 @@ danstyle{
 
 
 .section{
-    background-color: aquamarine;
+    background-color:rgb(181, 184, 183);
 }
-#h1style{
+#h2style{
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:gray ;
 }
-/*nav manu styling*/
+nav{
+    background-color: gray;
+    color:black ;
+    padding: 2%;
+}
 
 
 
@@ -59,7 +67,7 @@ ul>li>a:hover{
 
 .view{
     width: 80%;
-    background-color: green;
+    background-color:gray;
     display: block;
     color: black;
     text-align: center;
@@ -67,6 +75,10 @@ ul>li>a:hover{
     text-decoration: none;
 }
 video{
-    background-color: green;
+    background-color:gray ;
     padding: 50px;
+}
+footer{
+    background-color: gray;
+    padding: 2%;
 }
